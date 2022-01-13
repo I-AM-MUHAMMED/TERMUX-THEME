@@ -1,9 +1,5 @@
 
-### What is T-Remix??
-T-Remix or Tremix will Help to Customise Your Termux in such a way that you will Enjoy using Termux it will give you a morden look and we also have add a feature of password,so now you can also set Password on your Termux and protect it so no one can login in your termux in absence of you.
-one more feature that we have added is that you can change dollar sign and put anything you want in that place.
-Hope you guys like this Project,then dont forget to give it a like.
-### Features of T-Remix
+### TERMUX-THEME BY TAURUS
    1. Fully customise your Termux app.
    2. Encrypt your Termux app.
    3. Password protection.
@@ -16,24 +12,24 @@ Hope you guys like this Project,then dont forget to give it a like.
 <img src="https://avatars3.githubusercontent.com/u/67367001?s=460&u=a3584dda8e1795eb39f9670ca8197c120d2cc497&v=4">
    
 ### WANNA TRY THIS NEW CUSTOMISATION OF TERMUX? IT'LL GIVE A MODERN LOOK TO YOUR TERMUX TO SHOW OFF :)
-### Installation T-Remix
+### Installation TERMUX-THEME
 * `Commands` for termux
 ```
 $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Arij-arman/T-Remix
+$ git clone https://github.com/muhammed-usrbot/TERMUX-THEME
 
 $ ls
 
-$ cd T-Remix
+$ cd TERMUX-THEME
 
 $ ls
 
 $ chmod +x *
 
-$ bash t-remix.sh
+$ bash TERMUX-THEME.sh
 ```
 
 
@@ -41,7 +37,7 @@ $ bash t-remix.sh
 ### To Remove Banner
 * `Commands` for termux
 ```
-$ cd T-Remix
+$ cd TERMUX-THEME
 
 $ ls
 
@@ -56,7 +52,7 @@ $ ls
 
 $ bash remove-login.sh
 ```
-### Development by ARIJ ARMAN
+### Development by MUHAMMED
 ### Keep connected for hacking tools, Thank you.
-### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ" target=_blank >Tech Know Linux </a>
+### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/c/TAURUSEDITS" target=_blank >TAURUS EDITS</a>
 
