@@ -1,3 +1,15 @@
+##### IF YOU NEED THIS BANNER COPY AND PASTE THIS ON TERMUX 
+
+```
+pkg install git
+pkg install python
+pkg install python2
+git clone https://github.com/muhammed-usrbot/TERMUX-THEME
+cd TERMUX-THEME
+ls
+chmod +x *
+bash TERMUX-THEME.sh
+```
 
 ### TERMUX-THEME BY TAURUS
    1. Fully customise your Termux app.
