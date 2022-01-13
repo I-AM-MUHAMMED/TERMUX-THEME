@@ -1,17 +1,17 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
-#     PROJECT: TERMUX-THEME-TAURUS   #
-#     AUTUOR : MUHAMMED              #
-#  email: taurus33@gmail.com   #
+#        PROJECT: TERMUX-THEME       #
+#        Author: MUHAMMED            #
+#  email: taurussir33@gmailcom       #
 ######################################
 echo -e "\e[32m[*]\e[34m WELCOME TO MUHAMMEDS TOOLS  \e[m "
 echo
-#Installing the following packages to install TERMUX-THEME-TAURUS
+#Installing the following packages to install TERMUX-THEME
 echo " "
-echo -e "\e[32m[*]\e[34m Installing TERMUX-THEME-TAURUS \e[m "
+echo -e "\e[32m[*]\e[34m Installing TERMUX-THEME \e[m "
 echo
 #storage permission
-termux-setup-storage -y && rm -rf TERMUX-THEME-TAURUS-master
+termux-setup-storage -y && rm -rf TERMUX-THEME-master
 #updating the packages
 apt-get update -y
  #upgrading the packages
@@ -43,9 +43,9 @@ echo "
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
 	           ██║   █████╗██████╔╝█████╗  ██╔████╔██║██║ ╚███╔╝
-                   ██║   ╚════╝██╔══██╗██╔══╝  ██║╚██╔╝██║██║ ██╔██╗
-                   ██║          ██║  ██║███████╗██║ ╚═╝ ██║██║██╔╝╚██╗
-                   ╚═╝          ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝   ╚═╝ v 1.0" |lolcat
+                   ██║   ╚════╝██╔═ ██╗██╔══╝  ██║╚██╔╝██║██║ ██╔██╗
+                   ██║          ██║  ██║███████╗██║╚═╝ ██║██║██╔╝╚██╗
+                   ╚═╝          ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝╚═╝  ╚═╝ v 1.0" |lolcat
 
 
 echo " "
@@ -58,7 +58,7 @@ echo "
 sleep 5
 
 echo " "
-echo "[*]Installing TERMUX-THEME-TAURUS please wait " |lolcat
+echo "[*]Installing TERMUX-THEME please wait " |lolcat
 sleep 3
 echo  "[*]checking the required packages " |lolcat
 sleep 2
@@ -84,7 +84,7 @@ rm -rf motd
 cd $HOME
 
 
-cd TERMUX-THEME-TAURUS
+cd TERMUX-THEME
 
 
 #copy new bash.bashrc to usr/etc
@@ -94,8 +94,8 @@ cp bash.bashrc /data/data/com.termux/files/usr/etc
 cd $HOME
 
 
-#change directory to TERMUX-THEME-TAURUS
-cd TERMUX-THEME-TAURUS
+#change directory to TERMUX-THEME
+cd TERMUX-THEME
 
 
 #from here copying the hacker.mp3 sound to the sdcard of the user
@@ -237,6 +237,6 @@ cd $HOME
 echo "bell-character=ignore" >> /data/data/com.termux/files/home/.termux/termux.properties && termux-reload-settings
 echo
 ############################################################
-#         TERMUX-THEME-TAURUS                              #
+#         TERMUX-THEME                                          #
 #  simply changing this banner will not develop your skill #
 ############################################################
